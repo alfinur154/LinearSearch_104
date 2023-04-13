@@ -64,3 +64,8 @@ void LinearSearch()
 }
 
 
+int main()
+{
+	input();
+	LinearSearch();
+}
